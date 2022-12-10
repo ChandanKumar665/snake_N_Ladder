@@ -19,7 +19,7 @@
   "dependencies": {
     "cookie-parser": "^1.4.4",
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "html": "^1.0.0",
     "module": "^1.2.5",
     "nodemon": "^1.19.0"
